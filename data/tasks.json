@@ -1,0 +1,17 @@
+[
+  {
+    "text": "Review pull requests",
+    "category": "Development",
+    "completed": false
+  },
+  {
+    "text": "Update UI color palette",
+    "category": "Design",
+    "completed": true
+  },
+  {
+    "text": "Prepare sprint planning slides",
+    "category": "Management",
+    "completed": false
+  }
+]

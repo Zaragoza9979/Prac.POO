@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Alice Johnson",
+    "role": "Frontend Developer",
+    "department": "Development",
+    "available": true
+  },
+  {
+    "name": "Bob Smith",
+    "role": "UX/UI Designer",
+    "department": "Design",
+    "available": false
+  },
+  {
+    "name": "Charlie Brown",
+    "role": "Backend Developer",
+    "department": "Development",
+    "available": true
+  },
+  {
+    "name": "Diana Prince",
+    "role": "Product Designer",
+    "department": "Design",
+    "available": true
+  }
+]
